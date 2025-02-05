@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBH9ZX8yhl3OcejBJK33Kp2FH31SjgUooxyncgnRqaexIy6oIeinLUkw8bOmAKH9jhWdB5IPK3LI3VoxctEg8Q==",
+  "dgSpecHash": "YikvCil8zRFdrgVDkundXjY71nquqnEwhka6dDkokVco6ZIyhmrnqI7ZHtTTYGrl7e3l5dVQNqGmONiC1lKTMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\SecurityProject\\SecurityProject\\SecurityProject.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\myGit\\security\\SecurityProject\\SecurityProject\\SecurityProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.15\\microsoft.aspnetcore.authentication.jwtbearer.5.0.15.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
